@@ -1,4 +1,4 @@
-Uniclone
+Unidex
 
 This is a decentralized exchange (DEX) project that is a clone of Uniswap, a popular and widely used DEX built on the Ethereum blockchain. The goal of this project is to provide a decentralized platform for users to trade various tokens in a secure and trustless manner without the need for intermediaries.
 
